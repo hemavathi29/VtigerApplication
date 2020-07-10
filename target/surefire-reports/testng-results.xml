@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="186816" started-at="2020-07-10T16:14:32Z" finished-at="2020-07-10T16:17:39Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="186816" started-at="2020-07-10T16:14:32Z" finished-at="2020-07-10T16:17:39Z">
+      <class name="CompaignTest.CreateCompainTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:CompaignTest.CreateCompainTest@181a1bc]" name="configBC" is-config="true" duration-ms="29363" started-at="2020-07-10T16:14:32Z" finished-at="2020-07-10T16:15:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:CompaignTest.CreateCompainTest@181a1bc]" name="configBM" is-config="true" duration-ms="25006" started-at="2020-07-10T16:15:02Z" finished-at="2020-07-10T16:15:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="TestStart()[pri:0, instance:CompaignTest.CreateCompainTest@181a1bc]" name="TestStart" duration-ms="43806" started-at="2020-07-10T16:15:27Z" finished-at="2020-07-10T16:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStart -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:CompaignTest.CreateCompainTest@181a1bc]" name="configAM" is-config="true" duration-ms="2634" started-at="2020-07-10T16:16:10Z" finished-at="2020-07-10T16:16:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:CompaignTest.CreateCompainTest@181a1bc]" name="configAC" is-config="true" duration-ms="743" started-at="2020-07-10T16:16:13Z" finished-at="2020-07-10T16:16:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- CompaignTest.CreateCompainTest -->
+      <class name="OrganizationTest.CreateOrganizationTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:OrganizationTest.CreateOrganizationTest@1fee20c]" name="configBC" is-config="true" duration-ms="5829" started-at="2020-07-10T16:16:53Z" finished-at="2020-07-10T16:16:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:OrganizationTest.CreateOrganizationTest@1fee20c]" name="configBM" is-config="true" duration-ms="7187" started-at="2020-07-10T16:16:58Z" finished-at="2020-07-10T16:17:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="TestStart()[pri:0, instance:OrganizationTest.CreateOrganizationTest@1fee20c]" name="TestStart" duration-ms="25356" started-at="2020-07-10T16:17:06Z" finished-at="2020-07-10T16:17:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStart -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:OrganizationTest.CreateOrganizationTest@1fee20c]" name="configAM" is-config="true" duration-ms="5530" started-at="2020-07-10T16:17:31Z" finished-at="2020-07-10T16:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:OrganizationTest.CreateOrganizationTest@1fee20c]" name="configAC" is-config="true" duration-ms="2193" started-at="2020-07-10T16:17:37Z" finished-at="2020-07-10T16:17:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- OrganizationTest.CreateOrganizationTest -->
+      <class name="ContactTest.CreateContactTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:ContactTest.CreateContactTest@616ca2]" name="configBC" is-config="true" duration-ms="6730" started-at="2020-07-10T16:16:14Z" finished-at="2020-07-10T16:16:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:ContactTest.CreateContactTest@616ca2]" name="configBM" is-config="true" duration-ms="7298" started-at="2020-07-10T16:16:21Z" finished-at="2020-07-10T16:16:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="TestStart()[pri:0, instance:ContactTest.CreateContactTest@616ca2]" name="TestStart" duration-ms="20737" started-at="2020-07-10T16:16:28Z" finished-at="2020-07-10T16:16:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStart -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:ContactTest.CreateContactTest@616ca2]" name="configAM" is-config="true" duration-ms="1790" started-at="2020-07-10T16:16:49Z" finished-at="2020-07-10T16:16:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:ContactTest.CreateContactTest@616ca2]" name="configAC" is-config="true" duration-ms="2184" started-at="2020-07-10T16:16:50Z" finished-at="2020-07-10T16:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- ContactTest.CreateContactTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
