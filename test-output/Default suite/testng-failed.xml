@@ -3,15 +3,15 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ContactTest.CreateContactTest">
+      <class name="Report.ExtendedReport">
         <methods>
-          <include name="configBM"/>
-          <include name="configAM"/>
-          <include name="configBC"/>
-          <include name="configAC"/>
-          <include name="TestStart"/>
+          <include name="endReport"/>
+          <include name="getTitle2"/>
+          <include name="setup"/>
+          <include name="lunch"/>
+          <include name="flush"/>
         </methods>
-      </class> <!-- ContactTest.CreateContactTest -->
+      </class> <!-- Report.ExtendedReport -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
